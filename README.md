@@ -8,3 +8,6 @@ Custom bare-metal build setup for STM32 (ARM Cortex-M4) featuring a custom start
 
 # Build
 Run (make) in terminal to build the project 
+
+---
+Note: The main application code and headers are provided for testing and demonstration purposes. My main contribution is writing the bare-metal setup (Startup code, Linker script, and Makefile) from scratch.
